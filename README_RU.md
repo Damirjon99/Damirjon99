@@ -26,15 +26,15 @@
 
 🎓 Компьютерная инженерия и ИИ, TUIT (Самарканд)
 
-🛡️ Security Journey
-• TryHackMe: 120+ rooms completed
-• HackTheBox learner
-• Studying:
+🛡️ Путь в сфере информационной безопасности
+• TryHackMe: пройдено более 120 комнат
+• Обучение на HackTheBox
+Изучаю:
   - Active Directory
-  - Web Application Security
-  - Privilege Escalation
+  - Безопасность веб-приложений
+  - Повышение привилегий
   - Linux
-• Goal:
+• Цель:
   eJPT → PNPT → OSCP
 - 💻 Fullstack-разработчик в студии **Team Zero**
 - 🎯 В поиске позиции junior penetration tester / security-инженера
