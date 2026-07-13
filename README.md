@@ -1,12 +1,10 @@
-👋 Hi, I'm Damirxon Saidov
-
-🌟 Welcome to my GitHub profile.
+<h1 align="center">🌟 Welcome to My GitHub Profile 🌟</h1>
 
  🌐 **Language / Язык**
 - 🇺🇸 **English**
 - 🇷🇺 [Русская версия](README_RU.md)
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00D9FF,100:8E2DE2&height=200&section=header&text=Damirxon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00D9FF,100:8E2DE2&height=200&section=header&text=Damirxon%20Saidov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Junior+Penetration+Tester+in+training;Fullstack+Developer+%7C+FastAPI+%2B+React;eJPT+%E2%86%92+OSCP+roadmap;Building+%26+breaking+web+apps" alt="Typing SVG" />
 
