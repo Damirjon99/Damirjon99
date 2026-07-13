@@ -1,9 +1,10 @@
 # 🇷🇺 Русская версия
-Привет, я Дамирхон Саидов 👋
-🌟 Добро пожаловать в мой профиль на GitHub.
+
+<h1 align="center">🌟 Добро пожаловать в мой профиль на GitHub🌟</h1>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00D9FF,100:8E2DE2&height=200&section=header&text=Damirxon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:00D9FF,100:8E2DE2&height=200&section=header&text=Damirxon%20Saidov&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20Fullstack%20Developer&descAlignY=58&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=8E2DE2&center=true&vCenter=true&width=600&lines=Junior+Penetration+Tester+in+training;Fullstack+Developer+%7C+FastAPI+%2B+React;eJPT+%E2%86%92+OSCP+roadmap;Building+%26+breaking+web+apps" alt="Typing SVG" />
 
@@ -13,7 +14,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&section=header" width="100%">
 
-## 💫 About Me
+## 💫Обо мне
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif" width="250">
 
@@ -32,7 +33,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&section=header" width="100%">
 
-## ⚡ Beyond the Code
+## ⚡За пределами кода
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250">
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215283295-44de9069-d569-4963-ba8f-264443a54c6d.gif" width="160">
@@ -54,7 +55,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&section=header" width="100%">
 
-## 🚀 Featured Projects
+## 🚀Избранные проекты
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656685-c1b60e93-6d5c-4b25-a45f-fd4c17ed4907.gif" width="90">
@@ -85,7 +86,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&section=header" width="100%">
 
-## 🎓 Education & Certifications
+## 🎓Образование и сертификаты
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180">
 
@@ -102,11 +103,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&section=header" width="100%">
 
-## 💻 Tech Stack
+## 💻 Технологический стек
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
 
-**Languages**
+**языки программирование**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -115,7 +116,7 @@
 ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash_script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Backend & Databases**
+**Бэкенд и базы данных**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
@@ -123,11 +124,11 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-**Frontend**
+**Внешний интерфейс**
 
 ![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Infrastructure**
+**Инфраструктура**
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="450">
 
@@ -136,12 +137,12 @@
 ![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Security & Testing**
+**Безопасность и тестирование**
 
 ![Cisco](https://img.shields.io/badge/cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Design**
+**Дизайн**
 
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
@@ -157,7 +158,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:00D9FF&height=3&section=header" width="100%">
 
-## 📊 GitHub Stats
+## 📊 Статистика GitHub
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="140">
@@ -174,7 +175,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:8E2DE2&height=3&section=header" width="100%">
 
-## 🌐 Socials
+## 🌐Социальные сети
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120"> </p> 
 <p align="center"> <a href="https://www.facebook.com/people/Дамирхон-Саидов/pfbid0RbD71gdtL4AtLZbQerCq2Nej5HFhQ1WmVWsu2uWCAFKRxXvktcgQMCaiYkKczn7Zl/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a> <a <a href="https://www.instagram.com/d_a_m_i_r_x_o_n/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a> <a href="https://www.linkedin.com/in/damirjon-undefined-74b9473b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/Tojik99" target="_blank"><img <a href="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a> <a href="https://leetcode.com/u/0ZsTq6UdLR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a> <a href="https://steamcommunity.com/profiles/76561198710429185/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a> <a href="mailto:damirjon486@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p> 
