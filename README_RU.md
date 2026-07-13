@@ -25,7 +25,17 @@
 &nbsp;
 
 - 🎓 Компьютерная инженерия и ИИ, TUIT (Самарканд)
-- 🛡️ TryHackMe & HackTheBox, сертификация eJPT в процессе
+
+-🛡️ Security Journey
+• TryHackMe: 120+ rooms completed
+• HackTheBox learner
+• Studying:
+  - Active Directory
+  - Web Application Security
+  - Privilege Escalation
+  - Linux
+• Goal:
+  eJPT → PNPT → OSCP
 - 💻 Fullstack-разработчик в студии **Team Zero**
 - 🎯 В поиске позиции junior penetration tester / security-инженера
 
@@ -66,7 +76,18 @@
     <td width="33%" valign="top">
       <h3>🎓 Smart University Assistant</h3>
       <p><i>Дипломный проект</i></p>
-      <p>AI-платформа обработки лекций: FastAPI-бэкенд, Alembic-миграции, Docker/Nginx-деплой, React-фронтенд с академическим дизайном.</p>
+      <p>AI-платформа обработки лекций: FastAPI-бэкенд, Alembic-миграции, Docker/Nginx-деплой, React-фронтенд с академическим дизайном.
+      Architecture
+
+React
+↓
+FastAPI
+↓
+PostgreSQL
+↓
+Claude API
+↓
+Docker + Nginx</p>
       <code>FastAPI</code> <code>React</code> <code>PostgreSQL</code> <code>Claude API</code> <code>Docker</code>
     </td>
     <td width="33%" valign="top">
