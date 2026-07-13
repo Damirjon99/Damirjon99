@@ -1,32 +1,8 @@
-<h1 align="center">Hi 👋, I'm Damirxon Saidov</h1>
+👋 Hi, I'm Damirxon Saidov
 
-<h3 align="center">
-Full-Stack Developer • Cybersecurity Enthusiast • Future Penetration Tester
-</h3>
+🌟 Welcome to my GitHub profile.
 
-<p align="center">
-Building secure web applications with <b>FastAPI</b>, <b>React</b> and <b>PostgreSQL</b> 🔐
-</p>
-
-<p align="center">
-🎓 Computer Engineering & AI Student |
-💻 Full-Stack Developer |
-🛡️ eJPT Candidate
-</p>
-
-<p align="center">
-<a href="mailto:damirjon486@gmail.com">📧 Email</a> •
-<a href="https://github.com/Damirjon99">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/ВАШ-LINKEDIN">💼 LinkedIn</a>
-</p>
-
----
-
-🌐 **Language**
-
-- 🇺🇸 **English**
-- 🇷🇺 [Русская версия](README_RU.md)
-🌐 **Language / Язык**
+ 🌐 **Language / Язык**
 - 🇺🇸 **English**
 - 🇷🇺 [Русская версия](README_RU.md)
 <div align="center">
