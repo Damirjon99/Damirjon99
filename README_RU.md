@@ -24,9 +24,9 @@
 
 &nbsp;
 
-- 🎓 Компьютерная инженерия и ИИ, TUIT (Самарканд)
+🎓 Компьютерная инженерия и ИИ, TUIT (Самарканд)
 
--🛡️ Security Journey
+🛡️ Security Journey
 • TryHackMe: 120+ rooms completed
 • HackTheBox learner
 • Studying:
